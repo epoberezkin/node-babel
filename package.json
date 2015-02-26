@@ -1,0 +1,23 @@
+{
+  "name": "node-babel",
+  "version": "0.1.0",
+  "description": "Babel require hook with whitelist of transpilers for es6 features that node 0.12 with harmony flag does not support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epoberezkin/node-babel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epoberezkin/node-babel/issues"
+  },
+  "homepage": "https://github.com/epoberezkin/node-babel",
+  "dependencies": {
+    "babel": "^4.5.5",
+    "mol-proto": "^0.1.12"
+  }
+}
