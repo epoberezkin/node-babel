@@ -23,7 +23,7 @@ module.exports = function(options) {
         'es6.properties.shorthand',
         'es6.spread',
         'es6.tailCall',
-        // 'es6.templateLiterals',                  // supported
+        'es6.templateLiterals',
         // 'es6.unicodeRegex',
         // 'es7.abstractReferences',
         'es7.comprehensions',
